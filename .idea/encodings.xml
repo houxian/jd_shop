@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jd-shop-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jd-shop-api-impl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jd-shop-api-impl/jd-shop-member-impl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jd-shop-api-impl/jd-shop-weixin-impl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jd-shop-api/jd-shop-api-member" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jd-shop-api/jd-shop-api-weixin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jd-shop-basics" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jd-shop-basics/jd-shop-basics-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jd-shop-basics/jd-shop-basics-zuul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jd-shop-entitys-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jd-shop-entitys-api/jd-shop-entitys-api-weixin" charset="UTF-8" />
+  </component>
+</project>

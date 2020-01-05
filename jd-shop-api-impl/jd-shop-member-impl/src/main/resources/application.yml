@@ -1,0 +1,22 @@
+server:
+  port: 8300
+spring:
+  application:
+    name: jd-shop-member
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8100/eureka
+    ###因为该应用为注册中心，不会注册自己
+    register-with-eureka: true
+    ###是否需要从eureka上获取注册信息
+    fetch-registry: true
+####swagger相关配置
+swagger:
+  base-package: com.jd.server.member
+  title: SpringCloud2.x构建微服务电商项目-微信服务接口
+  version: 1.1
+  terms-of-service-url: www.houxian.com
+  contact:
+    name: houxianyong
+    email: 196075507@qq.com
